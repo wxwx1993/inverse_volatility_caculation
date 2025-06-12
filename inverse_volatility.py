@@ -1,6 +1,6 @@
 #!/usr/local/bin/python3
 
-# Author: Zebing Lin (https://github.com/linzebing)
+# Adapted from: Zebing Lin (https://github.com/linzebing)
 
 from datetime import datetime, date
 import math
