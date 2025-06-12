@@ -10,7 +10,7 @@ import sys
 import yfinance as yf
 
 if len(sys.argv) == 1:
-    symbols = ['VTV', 'BRK-B', 'ARKK']
+    symbols = ['UPRO', 'TMF']
 else:
     symbols = sys.argv[1].split(',')
     for i in range(len(symbols)):
